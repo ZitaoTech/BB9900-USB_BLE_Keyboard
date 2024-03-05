@@ -36,7 +36,7 @@ How to check the Bluetooth version of your device: google (your device name) lik
 
 # How to use this keyboard  
 ## Concept of Layer
-Because of the limited number of keys on this tiny keyboard, there are many normal keys like characters or symbols and media keys that we want the keyboard to type out. By default I have set 3 layers on this keyboard, by pressing the layer toggle keys we can enter and exit the layer, at the same time the backlight under the 4 big button keys work as indicator for the current layer number. You can find more Information about it under [Backlight/LED control ](#Backlight/LED control ) 
+Because of the limited number of keys on this tiny keyboard, there are many normal keys like characters or symbols and media keys that we want the keyboard to type out. By default I have set 3 layers on this keyboard, by pressing the layer toggle keys we can enter and exit the layer, at the same time the backlight under the 4 big button keys work as indicator for the current layer number. You can find more Information about it under [Backlight/LED control ](#Backlight/LED control )
 When we power the keyboard on, we are at Layer 1: the QWERTY layer. By pressing the sym key on the right under area, we can enter Layer 2: now we can type out symbol and number like # 1 2 3 which is originally marked on the keyboard. The Layer3 contains some Bluetooth operation keys and other symbols.  
 
 ## Keymap
@@ -75,7 +75,7 @@ If the keyboard wasn't connected to any device or is out of the communication di
 
 Once you toggle the output between USB and BLE by entering layer 3 and hold space key for more than a half second. The keyboard will remember this if you don't make any change for more than 10 seconds.
 
-## Backlight/LED control  
+## <a name='Backlight/LED control  '> Backlight/LED control   </a>
 There are 4 LED controls on this keyboard:  
 1. Charging LED: the read led on the left side of the keyboard indicates if the battery of the keyboard is fully charged. When the battery is being charged, the light shows like this. When the battery is fully charged, the led will go out.  
 2. Keyboard backlight: When you power the keyboard on, the backlight of the QWERTY keyboard area will be turned on immediately. If the keyboard doesn't detect any key press for more than 30 seconds, the backlight will be turned off. Also the brightness of the backlight can be manuelly set. You can find the related action on layer 3. The brightness of the keyboard backlight is set at 40% by default. The brightness adjustment step  in percent is 10%.  
