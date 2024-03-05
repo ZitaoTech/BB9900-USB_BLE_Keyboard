@@ -25,5 +25,5 @@ How to check the Bluetooth version of your device: google (your device name) lik
 
 ## Where to buy
 
-**Pay with dollar**: Tindie
-**Pay with Euro**: Lectronz
+**Pay with dollar**: Tindie  
+**Pay with Euro**: Lectronz  
