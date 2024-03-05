@@ -1,5 +1,5 @@
 # BB9900-USB_BLE_Keyboard  
-<img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/View1.png" width = "450" height = "400" alt="View1" align=center />
+<img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/View1.png" width = "360" height = "320" alt="View1" align=center />
 
 ## About this Keyboard
 
