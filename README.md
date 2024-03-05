@@ -80,9 +80,9 @@ Once you toggle the output between USB and BLE by entering layer 3 and hold spac
 
 ## <a name='Backlight/LED control  '> Backlight/LED control   </a>
 There are 4 LED controls on this keyboard:  
-1. Charging LED: the read led on the left side of the keyboard indicates if the battery of the keyboard is fully charged. When the battery is being charged, the light shows like this. When the battery is fully charged, the led will go out.  
-2. Keyboard backlight: When you power the keyboard on, the backlight of the QWERTY keyboard area will be turned on immediately. If the keyboard doesn't detect any key press for more than 30 seconds, the backlight will be turned off. Also the brightness of the backlight can be manuelly set. You can find the related action on layer 3. The brightness of the keyboard backlight is set at 40% by default. The brightness adjustment step  in percent is 10%.  
-3. Big button backlight: The backlight of this area works as indicator of the current number of layer. At Layer 1, the backlight is turned off. At Layer2, the backlight is turned on. At Layer3, the backlight starts to breath.  
-4. Trackpad backlight: The backlight of the trackpad works as indicator of capslock. When capslock is on, the backlight will be turned on and also the trackpad will work as scroll wheel. You can now sweep your finger on the trackpad to quickly browse a webpage or file.  
+**1. Charging LED**: the read led on the left side of the keyboard indicates if the battery of the keyboard is fully charged. When the battery is being charged, the light shows like this. When the battery is fully charged, the led will go out.  
+**2. Keyboard backlight**: When you power the keyboard on, the backlight of the QWERTY keyboard area will be turned on immediately. If the keyboard doesn't detect any key press for more than 30 seconds, the backlight will be turned off. Also the brightness of the backlight can be manuelly set. You can find the related action on layer 3. The brightness of the keyboard backlight is set at 40% by default. The brightness adjustment step  in percent is 10%.  
+**3. Big button backlight**: The backlight of this area works as indicator of the current number of layer. At Layer 1, the backlight is turned off. At Layer2, the backlight is turned on. At Layer3, the backlight starts to breath.  
+**4. Trackpad backlight**: The backlight of the trackpad works as indicator of capslock. When capslock is on, the backlight will be turned on and also the trackpad will work as scroll wheel. You can now sweep your finger on the trackpad to quickly browse a webpage or file.  
 
 # Some tipps for using this keyboard
