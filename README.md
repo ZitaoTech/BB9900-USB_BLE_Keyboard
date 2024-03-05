@@ -53,7 +53,7 @@ Here are a few steps to connect the keyboard with your device when you first get
 4. Press the fitst big button on the left and double tap the trackpad: Now the keyboard has cleared the early pairing informations and is ready to pair with a new device. For the keyboard, this device is remember as device 1.  
 5. Check the Bluetooth setting on your device and pair with the kaybord and now you can type with the keyboard.
 
-## Multiconnect  
+## Multidevice connect  
 The keyboard can be paired with up to 4 devices and can be switch between them very quickly.  
 Here are a few steps showing how you connect the keyboard with a new device when you have already paired with a first device:  
 1. Enter Layer 3 by pressing the aA key on the right under area and you can see the backlight under the pannel for the 4 big buttons starts to breath.
