@@ -58,3 +58,12 @@ Here are a few steps showing how you connect the keyboard with a new device when
 3. Double tap the trackpad to clear the early pairing information to make sure it is now pairing with a new device.
 4. Operate on you device to pair with the keyboard
 5. If you want to switch to another device, enter layer 3 and press the big button that is match with your early operation, **don't double tap the trackpad this time.**
+
+## How to delete the pairing  
+If you don't want the keyboard to connect with some device that you paired before, here are a few steps that you should do to delete the pairing:  
+1. On the keyboard side: switch to the device that you want to delete by entering layer 3 and press the right big button.
+2. Go to the Bluetooth setting page of the device and delete the Bluetooth pairing with the keyboard.
+3. Now on the keyboard side: Enter Layer 3 and double tap the trackpad to delete the pairing information that is stored in the keyboard.
+In brief, if you want to delete the pairing, make sure to operate on both sides that the pairing information is deleted.  
+
+
