@@ -14,7 +14,7 @@ This mini Keyboard uses the original Blackberry 9900 keyboard with Trackpad and 
 
 ## Before you buy/use
 
-This keyboard can only be paired wirelessly with devices that have **BLE 5.0 modul or higher**, please check if your device have the right Bluetooth modul, otherwise the keyboard can not work with your device wirelessly!  
+**Bluetooth version check**: This keyboard can only be paired wirelessly with devices that have **BLE 5.0 modul or higher**, please check if your device have the right Bluetooth modul, otherwise the keyboard can not work with your device wirelessly!  
 How to check the Bluetooth version of your device: google (your device name) like iphone 8 and plus Bluetooth version and you will find the answer like this:
  <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/BLE%20VERSION%20check.png" width = "600" height = "300" alt="BLE VERSION CHECK" align=center />
 
