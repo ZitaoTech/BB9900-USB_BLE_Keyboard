@@ -1,7 +1,8 @@
 # BB9900-USB_BLE_Keyboard
 ## About this Keyboard
 
-This mini Keyboard uses the original Blackberry 9900 keyboard with Trackpad and powered by the NRF52840 Microcontroller and operates under modified ZMK Firmware. Here are some **main Features:**
+This mini Keyboard uses the original Blackberry 9900 keyboard with Trackpad and powered by the NRF52840 Microcontroller and operates under modified ZMK Firmware. Here are some **main Features:**  
+Brief Video of using this tiny keyboard:  
 
 **Processor**: [NRF52840](https://www.nordicsemi.com/products/nrf52840) from Nordic Semiconductor  
 **Firmware**: Modified ZMK Firmware.  
@@ -27,3 +28,5 @@ How to check the Bluetooth version of your device: google (your device name) lik
 
 **Pay with dollar**: Tindie  
 **Pay with Euro**: Lectronz  
+
+## Where to buy
