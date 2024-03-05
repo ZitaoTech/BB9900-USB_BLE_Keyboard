@@ -63,7 +63,12 @@ Here are a few steps showing how you connect the keyboard with a new device when
 If you don't want the keyboard to connect with some device that you paired before, here are a few steps that you should do to delete the pairing:  
 1. On the keyboard side: switch to the device that you want to delete by entering layer 3 and press the right big button.
 2. Go to the Bluetooth setting page of the device and delete the Bluetooth pairing with the keyboard.
-3. Now on the keyboard side: Enter Layer 3 and double tap the trackpad to delete the pairing information that is stored in the keyboard.
-In brief, if you want to delete the pairing, make sure to operate on both sides that the pairing information is deleted.  
+3. Now on the keyboard side: Enter Layer 3 and double tap the trackpad to delete the pairing information that is stored in the keyboard.  
+**In brief, if you want to delete the pairing, make sure to operate on both sides that the pairing information is deleted.**
 
+## USB&BLE Output select
+This keyboard supportes both USB and BLE output, here are some basic logics of the output select:  
+By default, output is sent to BLE when both USB and BLE are connected.  
+If the keyboard wasn't connected to any device or is out of the communication distance with a paired device, the output would be USB.  
+Once you toggle the output between USB and BLE by entering layer 3 and hold space key for more than a half second. The keyboard will remember this if you don't make any change for more than 10 seconds.
 
