@@ -14,6 +14,7 @@ Brief Video of using this tiny keyboard:
 **On board charging circuit**: The USB-C port can not only be used for data transmitting but also can be used for charging battery  
 **USB&BLE Output**: Support both wired and wireless connect.  
 **Shoulder keys**: There are two shoulder keys on top side of the keyboard which can be used as mouse left and right keys.  
+**Multidevice connect**: The keyboard can be connected up to 4 devices at the same and can be switched between them easily.
 
 ## Before you buy/use
 
@@ -37,3 +38,4 @@ Because of the limited number of keys on this tiny keyboard, there are many norm
 When we power the keyboard on, we are at Layer 1: the QWERTY layer. By pressing the sym key on the right under area, we can enter Layer 2: now we can type out symbol and number like # 1 2 3 which is originally marked on the keyboard. The Layer3 contains some Bluetooth operation keys and other symbols.  
 
 ## Keymap
+The following pictures show the default keymap of the keyboard
