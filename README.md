@@ -29,4 +29,5 @@ How to check the Bluetooth version of your device: google (your device name) lik
 **Pay with dollar**: Tindie  
 **Pay with Euro**: Lectronz  
 
-# How to use this keyboard
+# How to use this keyboard  
+## Concept of Layer
