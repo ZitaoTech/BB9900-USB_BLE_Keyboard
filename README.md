@@ -22,3 +22,8 @@ How to check the Bluetooth version of your device: google (your device name) lik
  <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/BL-5B%20on%20Amazon.png" width = "215" height = "150" alt="BL-5B on Amazon" align=center />
  <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/BL-5B%20on%20ebay.png" width = "223" height = "167" alt="BL-5B on Ebay" align=center />
  <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/BL-5B%20on%20Aliexpress.png" width = "240" height = "136" alt="BL-5B on Ebay" align=center />
+
+## Where to buy
+
+**Pay with dollar**: Tindie
+**Pay with Euro**: Lectronz
