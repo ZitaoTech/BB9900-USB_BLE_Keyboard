@@ -18,4 +18,4 @@ This keyboard can only be paired wirelessly with devices that have **BLE 5.0 mod
 How to check the Bluetooth version of your device: google (your device name) like iphone 8 and plus Bluetooth version and you will find the answer like this:
 ![BLE VERSION check](https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/assets/145678024/9de05d4f-a179-4a2c-a3f5-7a072ccc2292)
 
-About the battery: If you want to buy the keyboard, you will need to buy the battery yourself because of the [shipping policy of Lithium battery](https://mydhl.express.dhl/de/en/help-and-support/shipping-advice/what-can-i-ship/lithium-batteries.html#/shipping_regulations) from DHL.
+About the battery: If you want to buy the keyboard, you will need to buy the battery yourself because of the [shipping policy of Lithium battery](https://www.dhl.de/en/toolbar/footer/informationen/gefahrgut.html) from DHL.
