@@ -41,3 +41,16 @@ When we power the keyboard on, we are at Layer 1: the QWERTY layer. By pressing 
 
 ## Keymap
 The following pictures show the default keymap of the keyboard
+
+## What to do when you first get this keyboard  
+Here are a few steps to connect the keyboard with your device when you first get hands on this keyboard:  
+1. Put the battery into the keyboard: The pictures shows you how to correctly put the battery into the keyboard.  
+2. Power the keyboard on by sliding the red switch to the right side:  
+3. You can see the backlight under the keyboard area is turned on, press the aA key on the right under area to enter layer 3 and you can see the backlight under the pannel for the 4 big buttons starts to breath.
+4. Press the fitst big button on the left and double tap the trackpad: Now the keyboard has cleared the early pairing informations and is ready to pair with a new device. For the keyboard, this device is remember as device 1.  
+5. Check the Bluetooth setting on your device and pair with the kaybord and now you can type with the keyboard.
+
+## Multiconnect  
+The keyboard can be paired with up to 4 devices and can be switch between them very quickly.  
+Here are a few steps showing how you connect the keyboard with a new device when you have already paired with a first device:  
+1. Enter Layer 3
