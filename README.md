@@ -36,7 +36,7 @@ How to check the Bluetooth version of your device: google (your device name) lik
 
 # How to use this keyboard  
 ## Concept of Layer
-Because of the limited number of keys on this tiny keyboard, there are many normal keys like characters or symbols and media keys that we want the keyboard to type out. By default I have set 3 layers on this keyboard, by pressing the layer toggle keys we can enter and exit the layer, at the same time the backlight under the 4 big button keys work as indicator for the current layer number. You can find more Information about it under [**Backlight/LED Control**](*Backlight/LED control)  
+Because of the limited number of keys on this tiny keyboard, there are many normal keys like characters or symbols and media keys that we want the keyboard to type out. By default I have set 3 layers on this keyboard, by pressing the layer toggle keys we can enter and exit the layer, at the same time the backlight under the 4 big button keys work as indicator for the current layer number. You can find more Information about it under <a href="*Backlight/LED control">Backlight/LED Control</a>
 When we power the keyboard on, we are at Layer 1: the QWERTY layer. By pressing the sym key on the right under area, we can enter Layer 2: now we can type out symbol and number like # 1 2 3 which is originally marked on the keyboard. The Layer3 contains some Bluetooth operation keys and other symbols.  
 
 ## Keymap
