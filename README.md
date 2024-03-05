@@ -1,4 +1,5 @@
-# BB9900-USB_BLE_Keyboard
+# BB9900-USB_BLE_Keyboard  
+<img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/View1.png" width = "900" height = "800" alt="View1" align=center />
 ## About this Keyboard
 
 This mini Keyboard uses the original Blackberry 9900 keyboard with Trackpad and powered by the NRF52840 Microcontroller and operates under modified ZMK Firmware.  
