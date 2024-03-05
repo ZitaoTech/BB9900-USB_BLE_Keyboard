@@ -53,4 +53,8 @@ Here are a few steps to connect the keyboard with your device when you first get
 ## Multiconnect  
 The keyboard can be paired with up to 4 devices and can be switch between them very quickly.  
 Here are a few steps showing how you connect the keyboard with a new device when you have already paired with a first device:  
-1. Enter Layer 3
+1. Enter Layer 3 by pressing the aA key on the right under area and you can see the backlight under the pannel for the 4 big buttons starts to breath.
+2. Press the second or third or fourth big button key dependen on which number you want the keyboard to remember.
+3. Double tap the trackpad to clear the early pairing information to make sure it is now pairing with a new device.
+4. Operate on you device to pair with the keyboard
+5. If you want to switch to another device, enter layer 3 and press the big button that is match with your early operation, **don't double tap the trackpad this time.**
