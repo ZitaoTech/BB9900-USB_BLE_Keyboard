@@ -75,3 +75,4 @@ If the keyboard wasn't connected to any device or is out of the communication di
 
 Once you toggle the output between USB and BLE by entering layer 3 and hold space key for more than a half second. The keyboard will remember this if you don't make any change for more than 10 seconds.
 
+# Playing tricks with this keyboard
