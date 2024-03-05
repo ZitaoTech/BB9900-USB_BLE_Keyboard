@@ -27,7 +27,7 @@ How to check the Bluetooth version of your device: google (your device name) lik
 **About the battery**: If you want to buy the keyboard, **you will need to buy the battery yourself** because of the [shipping policy of Lithium battery](https://www.dhl.de/en/toolbar/footer/informationen/gefahrgut.html) from DHL. The Battery type that you need to buy is **BL-5B**. You can first check if you can buy it on your local Amazon or ebay webside. If there is not, you can buy the battery on Aliexpress. **Just buy the cheapest one**, in Europe the cheapest one will cost approximaltely 6 Euros. Here are some pictures of the battery price from Amazon, ebay and Aliexpress:  
  <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/BL-5B%20on%20Amazon.png" width = "322" height = "225" alt="BL-5B on Amazon" align=center />
  <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/BL-5B%20on%20ebay.png" width = "334" height = "225" alt="BL-5B on Ebay" align=center />
- <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/BL-5B%20on%20Aliexpress.png" width = "240" height = "136" alt="BL-5B on Ebay" align=center />
+ <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/BL-5B%20on%20Aliexpress.png" width = "320" height = "225" alt="BL-5B on Ebay" align=center />
 
 ## Where to buy
 
