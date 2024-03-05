@@ -18,4 +18,4 @@ This mini Keyboard uses the original Blackberry 9900 keyboard with Trackpad and 
 How to check the Bluetooth version of your device: google (your device name) like iphone 8 and plus Bluetooth version and you will find the answer like this:
  <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/BLE%20VERSION%20check.png" width = "600" height = "300" alt="BLE VERSION CHECK" align=center />
 
-**About the battery**: If you want to buy the keyboard, **you will need to buy the battery yourself** because of the [shipping policy of Lithium battery](https://www.dhl.de/en/toolbar/footer/informationen/gefahrgut.html) from DHL.
+**About the battery**: If you want to buy the keyboard, **you will need to buy the battery yourself** because of the [shipping policy of Lithium battery](https://www.dhl.de/en/toolbar/footer/informationen/gefahrgut.html) from DHL. The Battery type that you need to buy is **BL-5B**. You can first check if you can buy it on your local Amazon or ebay webside. If there is not, you can buy the battery on Aliexpress. Just buy the cheapest one, in Europe the cheapest one will cost approximaltely 6 Euros.
