@@ -3,8 +3,7 @@
 
 This mini Keyboard uses the original Blackberry 9900 keyboard with Trackpad and powered by the NRF52840 Microcontroller and operates under modified ZMK Firmware. Here are some main Features:
 
-Processor: [NRF52840](https://www.nordicsemi.com/products/nrf52840) from Nordic Semiconductor
-
+Processor: [NRF52840](https://www.nordicsemi.com/products/nrf52840) from Nordic Semiconductor  
 Firmware: Modified ZMK Firmware.  
 Swapable battery Design: Replace your battery in 10 seconds.  
 Battery type: Nokia BL-5B.  
