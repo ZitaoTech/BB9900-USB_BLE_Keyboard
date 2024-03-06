@@ -110,7 +110,7 @@ When you press the capslock key, try not to make movement on the trackpad. You c
 First check the bluetooth version of your device, make sure it is 5.0 or higher. 
 If you paired the device with the keyboard before, make sure that on the keyboard side the early pairing information is deleted by entering layer 3 and double tap the trackpad.
 
-**(rarely on windows computer) On the Bluetooth setting page of the device the keyboard stays between connected and paired. What's wrong**  
+**(rarely on windows computer) On the Bluetooth setting page of the device the keyboard stays between connected and paired. What's wrong?**  
 Something went wrong in the windows system, try to restart the computer, if that not works, delete the pairing from both sides and make the pairing again.  
 # Some tipps for using this keyboard  
 ## iphone or IOS users  
