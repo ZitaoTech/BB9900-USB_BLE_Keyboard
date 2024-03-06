@@ -45,6 +45,8 @@ When we power the keyboard on, we are at Layer 1: the QWERTY layer. By pressing 
 ## Keymap
 The following pictures show the default keymap of the keyboard  
  <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/Layer_1.png" width = "788" height = "861" alt="BLE VERSION CHECK" align=center />
+ <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/Layer_2.png" width = "788" height = "861" alt="BLE VERSION CHECK" align=center />
+ <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/Layer_3.png" width = "788" height = "861" alt="BLE VERSION CHECK" align=center />
 
 ## What to do when you first get this keyboard  
 Here are a few steps to connect the keyboard with your device when you first get hands on this keyboard:  
