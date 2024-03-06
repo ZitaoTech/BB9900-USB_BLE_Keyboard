@@ -94,7 +94,7 @@ There are 4 LED controls on this keyboard:
 **4. Trackpad backlight**: The backlight of the trackpad works as indicator of capslock. When capslock is on, the backlight will be turned on and also the trackpad will work as scroll wheel. You can now sweep your finger on the trackpad to quickly browse a webpage or file.  
 
 # Troubleshoot  
-I can type but the trackpad isn't working, what should I do?  
+**I can type but the trackpad isn't working, what should I do?**   
 First reboot the keyboard and see if the trackpad works. If not, enter Layer 3 and press t to check if the trackpad works.  
 
 I 
