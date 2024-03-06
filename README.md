@@ -65,6 +65,11 @@ Here are a few steps showing how you connect the keyboard with a new device when
 4. Operate on you device to pair with the keyboard
 5. If you want to switch to another device, enter layer 3 and press the big button that is match with your early operation, **don't double tap the trackpad this time.**
 
+**Out of range problem**:  
+Assume that the keyboard is connected with 2 devices：device 1 and device 2. If you turn on the keyboard, the keyboard will first connect with device1.  
+And now you put the device 1 out of the communication range of the keyboard, then the keyboard will look for the device that is already paired, that would be the device 2.  
+If you put device 1 back into the communication range, the keyboard will still stay connected with device 2, if you want to type with device 1, you need reboot the keyboard or enter layer 3 and select BT device 1.  
+
 ## How to delete the pairing  
 If you don't want the keyboard to connect with some device that you paired before, here are a few steps that you should do to delete the pairing:  
 1. On the keyboard side: switch to the device that you want to delete by entering layer 3 and press the right big button.
@@ -89,6 +94,10 @@ There are 4 LED controls on this keyboard:
 **4. Trackpad backlight**: The backlight of the trackpad works as indicator of capslock. When capslock is on, the backlight will be turned on and also the trackpad will work as scroll wheel. You can now sweep your finger on the trackpad to quickly browse a webpage or file.  
 
 # Troubleshoot  
+I can type but the trackpad isn't working, what should I do?  
+First reboot the keyboard and see if the trackpad works. If not, enter Layer 3 and press t to check if the trackpad works.  
+
+I 
 
 # Some tipps for using this keyboard  
 ## iphone or IOS users  
