@@ -6,7 +6,7 @@ Last update about this documentation: 2024.03.05
 
 This mini Keyboard uses the original **Blackberry 9900** keyboard with Trackpad and powered by the NRF52840 Microcontroller and operates under modified ZMK Firmware.  
 
-Brief Video of using this tiny keyboard:  
+Brief Video of using this tiny keyboard: soon  
 
 Here are some **main Features:**  
 **Processor**: [NRF52840](https://www.nordicsemi.com/products/nrf52840) from Nordic Semiconductor  
