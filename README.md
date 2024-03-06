@@ -106,11 +106,11 @@ Maybe you toggled the USB/BLE output by mistake, Enter layer 3, press and hold s
 **When I press capslock key, the mouse will keep moving forward a certain direction, what's wrong?**  
 When you press the capslock key, try not to make movement on the trackpad. You can press the capslock key to make the keyboard back to normal.
 
-**I can't connect my device with the keyboard, what's wrong?**
+**I can't connect my device with the keyboard, what's wrong?**  
 First check the bluetooth version of your device, make sure it is 5.0 or higher. 
 If you paired the device with the keyboard before, make sure that on the keyboard side the early pairing information is deleted by entering layer 3 and double tap the trackpad.
 
-**(rarely on windows computer) On the Bluetooth setting page of the device the keyboard stays between connected and paired. What's wrong**
+**(rarely on windows computer) On the Bluetooth setting page of the device the keyboard stays between connected and paired. What's wrong**  
 Something went wrong in the windows system, try to restart the computer, if that not works, delete the pairing from both sides and make the pairing again.  
 # Some tipps for using this keyboard  
 ## iphone or IOS users  
