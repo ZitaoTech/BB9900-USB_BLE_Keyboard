@@ -53,7 +53,7 @@ Here are a few steps to connect the keyboard with your device when you first get
 1. Put the battery into the keyboard: The pictures shows you how to correctly put the battery into the keyboard.  
 2. Power the keyboard on by sliding the red switch to the right side:  
 3. You can see the backlight under the keyboard area is turned on, press the aA key on the right under area to enter layer 3 and you can see the backlight under the pannel for the 4 big buttons starts to breath.
-4. Press the fitst big button on the left and double tap the trackpad: Now the keyboard has cleared the early pairing informations and is ready to pair with a new device. For the keyboard, this device is remember as device 1.  
+4. Press the fitst big button on the left and double tap the trackpad: Now the keyboard has cleared the early pairing informations and is ready to pair with a new device. For the keyboard, this device is remembered as device 1.  
 5. Check the Bluetooth setting on your device and pair with the kaybord and now you can type with the keyboard.
 
 ## Multidevice connect  
@@ -67,7 +67,7 @@ Here are a few steps showing how you connect the keyboard with a new device when
 
 **Out of range problem**:  
 Assume that the keyboard is connected with 2 devices：device 1 and device 2. If you turn on the keyboard, the keyboard will first connect with device1.  
-And now you put the device 1 out of the communication range of the keyboard, then the keyboard will look for the device that is already paired, that would be the device 2.  
+And now you put the device 1 out of the communication range of the keyboard, then the keyboard will look for the device that is already paired, that would be the device 2 and stay connected with it.  
 If you put device 1 back into the communication range, the keyboard will still stay connected with device 2, if you want to type with device 1, you need reboot the keyboard or enter layer 3 and select BT device 1.  
 
 ## How to delete the pairing  
