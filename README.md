@@ -89,5 +89,8 @@ There are 4 LED controls on this keyboard:
 **4. Trackpad backlight**: The backlight of the trackpad works as indicator of capslock. When capslock is on, the backlight will be turned on and also the trackpad will work as scroll wheel. You can now sweep your finger on the trackpad to quickly browse a webpage or file.  
 
 # Some tipps for using this keyboard  
-##iphone or IOS users  
+## iphone or IOS users  
 If you need to use 
+
+# others  
+## dimensions about the keyboard  
