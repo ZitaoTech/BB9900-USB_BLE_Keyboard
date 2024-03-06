@@ -15,7 +15,7 @@ Here are some **main Features:**
 **Battery type**: Nokia BL-5B. You can buy it anywhere in the world.  
 **Long battery life**: The keyboard can work more than 3 months when normally used without recharging.  
 **Mouse and scroll wheel 2 in 1**: When enable Capslock, the trackpad works as scroll wheel.  
-**Compatible with all platform**: Android, Apple, Windows, Linux as long as your device has Bluetooth modul.  
+**Compatible with all platform**: Android, Apple, Windows, Linux, Steamdeck or even Car as long as your device has Bluetooth modul.  
 **On board charging circuit**: The USB-C port can not only be used for data transmitting but also can be used for charging battery  
 **USB&BLE Output**: Support both wired and wireless connect.  
 **Shoulder keys**: There are two shoulder keys on top side of the keyboard which can be used as mouse left and right keys.  
