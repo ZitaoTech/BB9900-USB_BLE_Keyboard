@@ -101,9 +101,17 @@ First reboot the keyboard and see if the trackpad works. If not, enter Layer 3 a
 Restart the keyboard.  
 
 **I have paired successfully with my device, but I can't type anything and there is no mouse movement, what's wrong?**  
-One possibility: Maybe you toggled the USB/BLE output by mistake, Enter layer 3, press and hold space key for more than 500ms and check if you can type now.  
-Another possibility: 
+Maybe you toggled the USB/BLE output by mistake, Enter layer 3, press and hold space key for more than 500ms and check if you can type now.  
 
+**When I press capslock key, the mouse will keep moving forward a certain direction, what's wrong?**  
+When you press the capslock key, try not to make movement on the trackpad. You can press the capslock key to make the keyboard back to normal.
+
+**I can't connect my device with the keyboard, what's wrong?**
+First check the bluetooth version of your device, make sure it is 5.0 or higher. 
+If you paired the device with the keyboard before, make sure that on the keyboard side the early pairing information is deleted by entering layer 3 and double tap the trackpad.
+
+**(rarely on windows computer) On the Bluetooth setting page of the device the keyboard stays between connected and paired. What's wrong**
+Something went wrong in the windows system, try to restart the computer, if that not works, delete the pairing from both sides and make the pairing again.  
 # Some tipps for using this keyboard  
 ## iphone or IOS users  
 If you need to use 
