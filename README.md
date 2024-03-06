@@ -114,5 +114,5 @@ How to correctly assemble the battery
 First, remove the battery cover like this:  
 <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/battery_remove.png" width = "300" height = "320" alt="BLE VERSION CHECK" align=center />  
 After removing the battery cover, you need to corretly insert the battery:  
-<img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/insert_battery_right.png" width = "500" height = "450" alt="BLE VERSION CHECK" align=center />  
+<img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/insert_battery_right.png" width = "500" height = "450" alt="BLE VERSION CHECK" align=center />
 <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/insert_battery_wrong.png" width = "500" height = "450" alt="BLE VERSION CHECK" align=center />  
