@@ -97,7 +97,12 @@ There are 4 LED controls on this keyboard:
 **I can type but the trackpad isn't working, what should I do?**   
 First reboot the keyboard and see if the trackpad works. If not, enter Layer 3 and press t to check if the trackpad works.  
 
-I 
+**I find that the mouse moves slower than my finger movement, what should I do?**  
+Restart the keyboard.  
+
+**I have paired successfully with my device, but I can't type anything and there is no mouse movement, what's wrong?**  
+One possibility: Maybe you toggled the USB/BLE output by mistake, Enter layer 3, press and hold space key for more than 500ms and check if you can type now.  
+Another possibility: 
 
 # Some tipps for using this keyboard  
 ## iphone or IOS users  
@@ -105,3 +110,6 @@ If you need to use
 
 # others  
 ## dimensions about the keyboard  
+How to correctly assemble the battery  
+First, remove the battery cover like this:  
+<img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/battery_remove.png" width = "500" height = "550" alt="BLE VERSION CHECK" align=center />
