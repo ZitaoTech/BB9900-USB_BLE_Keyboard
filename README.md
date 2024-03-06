@@ -43,7 +43,8 @@ Because of the limited number of keys on this tiny keyboard, there are many norm
 When we power the keyboard on, we are at Layer 1: the QWERTY layer. By pressing the sym key on the right under area, we can enter Layer 2: now we can type out symbol and number like # 1 2 3 which is originally marked on the keyboard. The Layer3 contains some Bluetooth operation keys and other symbols.  
 
 ## Keymap
-The following pictures show the default keymap of the keyboard
+The following pictures show the default keymap of the keyboard  
+ <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/Layer_1.png" width = "788" height = "861" alt="BLE VERSION CHECK" align=center />
 
 ## What to do when you first get this keyboard  
 Here are a few steps to connect the keyboard with your device when you first get hands on this keyboard:  
