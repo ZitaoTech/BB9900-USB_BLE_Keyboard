@@ -88,6 +88,8 @@ There are 4 LED controls on this keyboard:
 **3. Big button backlight**: The backlight of this area works as indicator of the current number of layer. At Layer 1, the backlight is turned off. At Layer2, the backlight is turned on. At Layer3, the backlight starts to breath.  
 **4. Trackpad backlight**: The backlight of the trackpad works as indicator of capslock. When capslock is on, the backlight will be turned on and also the trackpad will work as scroll wheel. You can now sweep your finger on the trackpad to quickly browse a webpage or file.  
 
+# Troubleshoot  
+
 # Some tipps for using this keyboard  
 ## iphone or IOS users  
 If you need to use 
