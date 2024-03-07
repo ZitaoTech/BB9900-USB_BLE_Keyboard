@@ -121,7 +121,7 @@ Something went wrong in the windows system, try to restart the computer, if that
 **Shortcuts and commands**:  
 In IOS you can edit shortcuts and commands with the keyboard. How to set:  
 Go to Settings-> Accessibility -> Keyboards-> Full Keyboard Access On-> Command and you can edit shortcuts or command using this keyboard.  
-for example you can set Ctrl+B as back.  
+for example you can set Ctrl+B as back. Sometimes you need to hit back twice to exit a page(that's the setting of IOS).  
 
 **How to adjust the mouse speed**:  
 If you find the trackpad moving too fast, you can adjust the spped of mouse in IOS. Here are the steps:  
