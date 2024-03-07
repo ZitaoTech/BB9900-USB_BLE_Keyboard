@@ -137,7 +137,7 @@ First try shift, then try Alt+shift, if not works, try Ctrl+shift. If none works
 
 **Shortcuts**:
 There are some useful shortcuts on android phones:  
-Hold blackberry key![image](https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/assets/145678024/f0ae23b5-8a3f-49d6-8b69-305affcb7c88) and press N to check messages.  
+Hold blackberry key and press N to check messages.  
 Hold blackberry key and press enter to go Home desktop.  
 Hold alt and press tab to enter multiapp control.  
 
