@@ -2,8 +2,7 @@
 <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/View1.png" width = "360" height = "320" alt="View1" align=center />
 Last update about this documentation: 2024.03.06  
 
-[**About this Keyboard**  ](#about-this-keyboard---)  
-[Before you use  ](#before-you-buyuse---)
+
 
 
 # <a name='About this keyboard  '>About this keyboard   </a>
