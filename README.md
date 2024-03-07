@@ -6,7 +6,7 @@ Last update about this documentation: 2024.03.06
 [Before you use  ](#before-you-buyuse---)
 
 
-
+# <a name='About this keyboard  '>About this keyboard   </a>
 This mini Keyboard uses the original **Blackberry 9900** keyboard with Trackpad and powered by the NRF52840 Microcontroller and operates under modified ZMK Firmware.  
 
 Brief Video of using this tiny keyboard: soon  
