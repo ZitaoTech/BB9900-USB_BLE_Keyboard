@@ -37,7 +37,7 @@ Here are some **main Features:**
 **On board charging circuit**: The USB-C port can not only be used for data transmitting but also can be used for charging battery  
 **USB&BLE Output**: Support both wired and wireless connect.  
 **Shoulder keys**: There are two shoulder keys on top side of the keyboard which can be used as mouse left and right keys.  
-**Multidevice connect**: The keyboard can be connected up to 4 devices at the same and can be switched between them easily.
+**Multidevice connect**: The keyboard can be paired with up to 4 devices at the same and can be switched between them easily.
 
 ## <a name='Before you buy/use  '>Before you buy/use   </a>
 
