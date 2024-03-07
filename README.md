@@ -5,7 +5,7 @@ Last update about this documentation: 2024.03.06
 [**About this keyboard**  ](#about-this-keyboard---)  
 [Before you buy/use  ](#before-you-buyuse---)  
 [**How to use this keyboard**  ](#how-to-use-this-keyboard---)  
-[Concept of Layer  ](#concept-of-layer---)  
+[Concept of Layer  ](#concept-of-layer)  
 [Keymap  ](#keymap---)  
 
 # <a name='About this keyboard  '>About this keyboard   </a>
