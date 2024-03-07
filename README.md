@@ -17,6 +17,9 @@ Last update about this documentation: 2024.03.06
 [iphone or IOS users  ](#iphone-or-ios-users)  
 [Andriod users  ](#android-users---)  
 [**Others**  ](#others---)  
+[Dimensions  ](#dimensions-about-the-keyboard---)  
+[Weight  ](#Weight---)  
+[How to correctly assemble the battery  ](#how-to-correctly-assemble-the-battery---)  
 # <a name='About this keyboard  '>About this keyboard   </a>
 This mini Keyboard uses the original **Blackberry 9900** keyboard with Trackpad and powered by the NRF52840 Microcontroller and operates under modified ZMK Firmware.  
 
