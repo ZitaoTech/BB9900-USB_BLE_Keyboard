@@ -110,6 +110,13 @@ There are 4 LED controls on this keyboard:
 **3. Big button backlight**: The backlight of this area works as indicator of the current number of layer. At Layer 1, the backlight is turned off. At Layer2, the backlight is turned on. At Layer3, the backlight starts to breath.  
 **4. Trackpad backlight**: The backlight of the trackpad works as indicator of capslock. When capslock is on, the backlight will be turned on and also the trackpad will work as scroll wheel. You can now sweep your finger on the trackpad to quickly browse a webpage or file.  
 
+## <a name='How to update the firmware  '> How to update the firmware   </a>
+This keyboard uses the bootloader from [nice!nano](https://nicekeyboards.com/nice-nano). Here are the steps that you need to do to update the firmware:  
+1. Connect the keyboard with your computer with a cable with data transmitting wire.  
+2. enter layer 3 and press the dollar key(left to the enter key).  
+3. then your computer can find a storage device called NICENANO.  
+4. drag the new firmware(.uf2 file) into the storage device and it's OK.
+PS:If there is an error showing from your computer after you drag the new .uf2 file, don't worry just ignore it.  
 # <a name='Troubleshoot  '>Troubleshoot   </a>  
 **I can type but the trackpad isn't working, what should I do?**   
 First reboot the keyboard and see if the trackpad works. If not, enter Layer 3 and press t to check if the trackpad works.  
