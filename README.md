@@ -129,7 +129,9 @@ Go to Settings-> General ->Trackpad&Mouse and you can adjust the tracking speed,
 
 **How to switch between different keyboard languages**:
 You may need to switch between englich and some other language keyboard in IOS,
-You need to hold ctrl and press space key to switch.
+You need to hold ctrl and press space key to switch.  
+
+PS: The scroll wheel function of the trackpoad is very useful when you watch tiktok shortvideos.  
 # others  
 ## dimensions about the keyboard  
 The picture below shows the outerline dimension of the keyboard  
