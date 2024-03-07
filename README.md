@@ -12,6 +12,7 @@ Last update about this documentation: 2024.03.06
 [How to delete the pairing  ](#how-to-delete-the-pairing---)  
 [USB&BLE Output select  ](#usbble-output-select---)  
 [Backlight/LED control  ](#-backlightled-control---)  
+[How to update the firmware  ](#-how-to-update-the-firmware---)  
 [**Troubleshoot**  ](#troubleshoot---)  
 [**Some tipps for using this keyboard**  ](#some-tipps-for-using-this-keyboard)  
 [iphone or IOS users  ](#iphone-or-ios-users)  
@@ -115,8 +116,9 @@ This keyboard uses the bootloader from [nice!nano](https://nicekeyboards.com/nic
 1. Connect the keyboard with your computer with a cable with data transmitting wire.  
 2. enter layer 3 and press the dollar key(left to the enter key).  
 3. then your computer can find a storage device called NICENANO.  
-4. drag the new firmware(.uf2 file) into the storage device and it's OK.
-PS:If there is an error showing from your computer after you drag the new .uf2 file, don't worry just ignore it.  
+4. drag the new firmware(.uf2 file) into the storage device and it's OK.  
+PS:If there is an error showing from your computer after you drag the new .uf2 file, don't worry just ignore it.
+
 # <a name='Troubleshoot  '>Troubleshoot   </a>  
 **I can type but the trackpad isn't working, what should I do?**   
 First reboot the keyboard and see if the trackpad works. If not, enter Layer 3 and press t to check if the trackpad works.  
