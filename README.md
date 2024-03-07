@@ -139,7 +139,7 @@ First try shift, then try Alt+shift, if not works, try Ctrl+shift. If none works
 There are some useful shortcuts on android phones:  
 Hold blackberry key and press N to check messages.  
 Hold blackberry key and press enter to go Home desktop.  
-Hold alt and press tab to enter multiapp control.  
+Hold alt and press tab(hang up key) to enter multiapp control.  
 
 
 PS: The scroll wheel function of the trackpoad is very useful when you watch tiktok shortvideos.  
