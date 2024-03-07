@@ -125,6 +125,10 @@ Go to Settings-> Accessibility -> Keyboards-> Full Keyboard Access On-> Command 
 **How to adjust the mouse speed**:  
 If you find the trackpad moving too fast, you can adjust the spped of mouse in IOS. Here are the steps:  
 Go to Settings-> General ->Trackpad&Mouse and you can adjust the tracking speed, by disable Natural Scrolling you can reverse the scroll direction when the trackpad works as scroll wheel.  
+
+**How to switch between different keyboard languages**:
+You may need to switch between englich and some other language keyboard in IOS,
+You need to hold ctrl and press space key to switch.
 # others  
 ## dimensions about the keyboard  
 The picture below shows the outerline dimension of the keyboard  
