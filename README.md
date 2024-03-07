@@ -122,6 +122,9 @@ Shortcuts and commands:
 In IOS you can edit shortcuts and commands with the keyboard. How to set:  
 Go to Settings-> Accessibility -> Keyboards-> Full Keyboard Access On-> Command and you can edit shortcuts or command using this keyboard.  
 
+How to adjust the mouse speed:  
+If you find the trackpad moving too fast, you can adjust the spped of mouse in IOS. Here are the steps:  
+Go to Settings-> General ->Trackpad&Mouse and you can adjust the tracking speed, by disable Natural Scrolling you can reverse the scroll direction when the trackpad works as scroll wheel.  
 # others  
 ## dimensions about the keyboard  
 The picture below shows the outerline dimension of the keyboard  
