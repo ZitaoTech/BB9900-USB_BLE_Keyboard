@@ -7,6 +7,7 @@ Last update about this documentation: 2024.03.06
 [**How to use this keyboard**  ](#how-to-use-this-keyboard---)  
 [Concept of Layer  ](#concept-of-layer)  
 [Keymap  ](#keymap---)  
+[What to do when you first get this keyboard  ](#what-to-do-when-you-first-get-this-keyboard---)  
 
 # <a name='About this keyboard  '>About this keyboard   </a>
 This mini Keyboard uses the original **Blackberry 9900** keyboard with Trackpad and powered by the NRF52840 Microcontroller and operates under modified ZMK Firmware.  
