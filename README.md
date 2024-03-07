@@ -114,15 +114,15 @@ If you paired the device with the keyboard before, make sure that on the keyboar
 Something went wrong in the windows system, try to restart the computer, if that not works, delete the pairing from both sides and make the pairing again.  
 # Some tipps for using this keyboard  
 ## iphone or IOS users  
-If you need to use trackpad as mouse or scroll wheel function on iphone or ipad, there are some settings that you need to do:  
+**If you need to use trackpad as mouse or scroll wheel function on iphone or ipad, there are some settings that you need to do**:  
 1. Go to Settings-> Accessibility-> Touch-> AssistiveTouch -> enable AssistiveTouch and you can use touchpad as mouse on iphone or ipad  
 2. Go to Settings-> General-> Keyboard-> Hardware Keyboard-> disable Cpas Lock Language Switch and you can use the trackpad as scroll wheel when capslock is on.
 
-Shortcuts and commands:  
+**Shortcuts and commands**:  
 In IOS you can edit shortcuts and commands with the keyboard. How to set:  
 Go to Settings-> Accessibility -> Keyboards-> Full Keyboard Access On-> Command and you can edit shortcuts or command using this keyboard.  
 
-How to adjust the mouse speed:  
+**How to adjust the mouse speed**:  
 If you find the trackpad moving too fast, you can adjust the spped of mouse in IOS. Here are the steps:  
 Go to Settings-> General ->Trackpad&Mouse and you can adjust the tracking speed, by disable Natural Scrolling you can reverse the scroll direction when the trackpad works as scroll wheel.  
 # others  
