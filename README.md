@@ -9,6 +9,8 @@ Last update about this documentation: 2024.03.06
 [Keymap  ](#keymap---)  
 [What to do when you first get this keyboard  ](#what-to-do-when-you-first-get-this-keyboard---)  
 [Multidevice Connect  ](#Multidevice-connect---)  
+[How to delete the pairing  ](#how-to-delete-the-pairing---)  
+[USB&BLE Output select  ](#usbble-output-select---) 
 
 # <a name='About this keyboard  '>About this keyboard   </a>
 This mini Keyboard uses the original **Blackberry 9900** keyboard with Trackpad and powered by the NRF52840 Microcontroller and operates under modified ZMK Firmware.  
