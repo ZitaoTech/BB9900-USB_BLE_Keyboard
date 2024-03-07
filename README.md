@@ -12,6 +12,7 @@ Last update about this documentation: 2024.03.06
 [How to delete the pairing  ](#how-to-delete-the-pairing---)  
 [USB&BLE Output select  ](#usbble-output-select---)  
 [Backlight/LED control  ](#-backlightled-control---)  
+[**Troubleshoot**  ](#troubleshoot---)  
 
 # <a name='About this keyboard  '>About this keyboard   </a>
 This mini Keyboard uses the original **Blackberry 9900** keyboard with Trackpad and powered by the NRF52840 Microcontroller and operates under modified ZMK Firmware.  
