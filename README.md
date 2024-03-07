@@ -131,6 +131,17 @@ Go to Settings-> General ->Trackpad&Mouse and you can adjust the tracking speed,
 You may need to switch between englich and some other language keyboard in IOS,
 You need to hold ctrl and press space key to switch.  
 
+## Android users  
+**How to switch between different keyboard languages**:
+First try shift, then try Alt+shift, if not works, try Ctrl+shift. If none works, pull down from the top of the screen and manuelly switch.  
+
+**Shortcuts**:
+There are some useful shortcuts on android phones:  
+Hold blackberry key![image](https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/assets/145678024/f0ae23b5-8a3f-49d6-8b69-305affcb7c88) and press N to check messages.  
+Hold blackberry key and press enter to go Home desktop.  
+Hold alt and press tab to enter multiapp control.  
+
+
 PS: The scroll wheel function of the trackpoad is very useful when you watch tiktok shortvideos.  
 # others  
 ## dimensions about the keyboard  
