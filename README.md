@@ -3,7 +3,7 @@
 Last update about this documentation: 2024.03.06  
 
 [**About this Keyboard**  ](#about-this-keyboard---)  
-[Before you use  ](#before-you-use---)
+[Before you use  ](#before-you-buyuse---)
 
 
 
