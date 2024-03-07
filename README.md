@@ -2,7 +2,7 @@
 <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/View1.png" width = "360" height = "320" alt="View1" align=center />
 Last update about this documentation: 2024.03.06  
 
-## About this Keyboard
+## <a name='About this Keyboard  '>About this Keyboard   </a>
 
 This mini Keyboard uses the original **Blackberry 9900** keyboard with Trackpad and powered by the NRF52840 Microcontroller and operates under modified ZMK Firmware.  
 
@@ -21,7 +21,7 @@ Here are some **main Features:**
 **Shoulder keys**: There are two shoulder keys on top side of the keyboard which can be used as mouse left and right keys.  
 **Multidevice connect**: The keyboard can be connected up to 4 devices at the same and can be switched between them easily.
 
-## Before you buy/use
+## <a name='Before you buy/use  '>Before you buy/use   </a>
 
 **Bluetooth version check**: This keyboard can only be paired wirelessly with devices that have **BLE 5.0 modul or higher**, please check if your device have the right Bluetooth modul, otherwise the keyboard can not work with your device wirelessly!  
 How to check the Bluetooth version of your device: google (your device name) like iphone 8 and plus Bluetooth version and you will find the answer like this:
@@ -37,18 +37,18 @@ How to check the Bluetooth version of your device: google (your device name) lik
 **Pay with US dollar**: Tindie  
 **Pay with Euro**: Lectronz  
 
-# How to use this keyboard  
-## Concept of Layer
+# <a name='How to use this keyboard  '>How to use this keyboard   </a>  
+## <a name='Concept of Layer   '>Concept of Layer
 Because of the limited number of keys on this tiny keyboard, there are many normal keys like characters or symbols and media keys that we want the keyboard to type out. By default I have set 3 layers on this keyboard, by pressing the layer toggle keys we can enter and exit the layer, at the same time the backlight under the 4 big button keys work as indicator for the current layer number. You can find more Information about it under [Backlight/LED control  ](#-backlightled-control---)
 When we power the keyboard on, we are at Layer 1: the QWERTY layer. By pressing the sym key on the right under area, we can enter Layer 2: now we can type out symbol and number like # 1 2 3 which is originally marked on the keyboard. The Layer3 contains some Bluetooth operation keys and other symbols.  
 
-## Keymap
+## <a name='Keymap  '>Keymap   </a>
 The following pictures show the default keymap of the keyboard  
  <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/Layer_1.png" width = "788" height = "861" alt="BLE VERSION CHECK" align=center />
  <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/Layer_2.png" width = "788" height = "861" alt="BLE VERSION CHECK" align=center />
  <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/Layer_3.png" width = "788" height = "861" alt="BLE VERSION CHECK" align=center />
 
-## What to do when you first get this keyboard  
+## <a name='What to do when you first get this keyboard  '>What to do when you first get this keyboard   </a>  
 Here are a few steps to connect the keyboard with your device when you first get hands on this keyboard:  
 1. Put the battery into the keyboard: The pictures shows you how to correctly put the battery into the keyboard.  
 2. Power the keyboard on by sliding the red switch to the right side:  
@@ -56,7 +56,7 @@ Here are a few steps to connect the keyboard with your device when you first get
 4. Press the fitst big button on the left and double tap the trackpad: Now the keyboard has cleared the early pairing informations and is ready to pair with a new device. For the keyboard, this device is remembered as device 1.  
 5. Check the Bluetooth setting on your device and pair with the kaybord and now you can type with the keyboard.
 
-## Multidevice connect  
+## <a name='Multidevice connect  '>Multidevice connect   </a>  
 The keyboard can be paired with up to 4 devices and can be switch between them very quickly.  
 Here are a few steps showing how you connect the keyboard with a new device when you have already paired with a first device:  
 1. Enter Layer 3 by pressing the aA key on the right under area and you can see the backlight under the pannel for the 4 big buttons starts to breath.
@@ -70,14 +70,14 @@ Assume that the keyboard is connected with 2 devices：device 1 and device 2. If
 And now you put the device 1 out of the communication range of the keyboard, then the keyboard will look for the device that is already paired, that would be the device 2 and stay connected with it.  
 If you put device 1 back into the communication range, the keyboard will still stay connected with device 2, if you want to type with device 1, you need reboot the keyboard or enter layer 3 and select BT device 1.  
 
-## How to delete the pairing  
+## <a name='How to delete the pairing  '>How to delete the pairing   </a>  
 If you don't want the keyboard to connect with some device that you paired before, here are a few steps that you should do to delete the pairing:  
 1. On the keyboard side: switch to the device that you want to delete by entering layer 3 and press the right big button.
 2. Go to the Bluetooth setting page of the device and delete the Bluetooth pairing with the keyboard.
 3. Now on the keyboard side: Enter Layer 3 and double tap the trackpad to delete the pairing information that is stored in the keyboard.  
 **In brief, if you want to delete the pairing, make sure to operate on both sides that the pairing information is deleted.**
 
-## USB&BLE Output select
+## <a name='USB&BLE Output select  '>USB&BLE Output select   </a>
 This keyboard supportes both USB and BLE output, here are some basic logics of the output select:  
 
 By default, output is sent to BLE when both USB and BLE are connected.  
@@ -93,7 +93,7 @@ There are 4 LED controls on this keyboard:
 **3. Big button backlight**: The backlight of this area works as indicator of the current number of layer. At Layer 1, the backlight is turned off. At Layer2, the backlight is turned on. At Layer3, the backlight starts to breath.  
 **4. Trackpad backlight**: The backlight of the trackpad works as indicator of capslock. When capslock is on, the backlight will be turned on and also the trackpad will work as scroll wheel. You can now sweep your finger on the trackpad to quickly browse a webpage or file.  
 
-# Troubleshoot  
+# <a name='Troubleshoot  '>Troubleshoot   </a>  
 **I can type but the trackpad isn't working, what should I do?**   
 First reboot the keyboard and see if the trackpad works. If not, enter Layer 3 and press t to check if the trackpad works.  
 
@@ -112,8 +112,8 @@ If you paired the device with the keyboard before, make sure that on the keyboar
 
 **(rarely on windows computer) On the Bluetooth setting page of the device the keyboard stays between connected and paired. What's wrong?**  
 Something went wrong in the windows system, try to restart the computer, if that not works, delete the pairing from both sides and make the pairing again.  
-# Some tipps for using this keyboard  
-## iphone or IOS users  
+# <a name='Some tipps for using this keyboard  '>Some tipps for using this keyboard  
+## <a name='iphone or IOS users  '>iphone or IOS users  
 **If you need to use trackpad as mouse or scroll wheel function on iphone or ipad, there are some settings that you need to do**:  
 1. Go to Settings-> Accessibility-> Touch-> AssistiveTouch -> enable AssistiveTouch and you can use touchpad as mouse on iphone or ipad  
 2. Go to Settings-> General-> Keyboard-> Hardware Keyboard-> disable Cpas Lock Language Switch and you can use the trackpad as scroll wheel when capslock is on.
@@ -131,7 +131,7 @@ Go to Settings-> General ->Trackpad&Mouse and you can adjust the tracking speed,
 You may need to switch between englich and some other language keyboard in IOS,
 You need to hold ctrl and press space key to switch.  
 
-## Android users  
+## <a name='Android users  '>Android users   </a>  
 **How to switch between different keyboard languages**:
 First try shift, then try Alt+shift, if not works, try Ctrl+shift. If none works, pull down from the top of the screen and manuelly switch.  
 
@@ -143,15 +143,15 @@ Hold alt and press tab(hang up key) to enter multiapp control.
 
 
 PS: The scroll wheel function of the trackpoad is very useful when you watch tiktok shortvideos.  
-# others  
-## dimensions about the keyboard  
+# <a name='others  '>others   </a>  
+## <a name='dimensions about the keyboard  '>dimensions about the keyboard   </a>  
 The picture below shows the outerline dimension of the keyboard  
 <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/outerline_dimension.png" width = "700" height = "500" alt="BLE VERSION CHECK" align=center />  
 Thickness of the keyboard: 13.1mm  
-## Weight  
+## <a name='Weight  '>Weight   </a>  
 Without the battery the weight of the keyboard is 41.3 g.  
 With the battery the weight of the keyboard is 60.7 g.  
-## How to correctly assemble the battery  
+## <a name='How to correctly assemble the battery  '>How to correctly assemble the battery   </a>  
 First, remove the battery cover like this:  
 <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/battery_remove.png" width = "300" height = "320" alt="BLE VERSION CHECK" align=center />  
 After removing the battery cover, you need to corretly insert the battery:  
