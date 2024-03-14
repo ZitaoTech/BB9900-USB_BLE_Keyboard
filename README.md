@@ -1,6 +1,6 @@
 # BB9900-USB_BLE_Keyboard  
 <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/View1.png" width = "360" height = "320" alt="View1" align=center /> <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/9900_back.jpg" width = "360" height = "320" alt="View1" align=center />  
-Last update about this documentation: 2024.03.06  
+Last update about this documentation: 2024.03.14  
 
 [**About this keyboard**  ](#about-this-keyboard---)  
 [Before you buy/use  ](#before-you-buyuse---)  
@@ -24,7 +24,7 @@ Last update about this documentation: 2024.03.06
 # <a name='About this keyboard  '>About this keyboard   </a>
 This mini Keyboard uses the original **Blackberry 9900** keyboard with Trackpad and powered by the NRF52840 Microcontroller and operates under modified ZMK Firmware.  
 
-[A Brief Video of using this tiny keyboard](https://www.youtube.com/watch?v=GYRP4RT6_Dc)
+[A Brief Video of using this tiny keyboard](https://www.youtube.com/watch?v=GYRP4RT6_Dc)  
 [How to connect the keyboard with a device](https://www.youtube.com/watch?v=_eHygpawiJ4)  
 
 Here are some **main Features:**  
