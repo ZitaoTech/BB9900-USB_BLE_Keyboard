@@ -1,6 +1,7 @@
 # BB9900-USB_BLE_Keyboard  
 <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/View1.png" width = "360" height = "320" alt="View1" align=center /> <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/9900_back.jpg" width = "360" height = "320" alt="View1" align=center />  
-Last update about this documentation: 2024.03.14  
+Last update about this documentation: 2024.03.24
+2024.03.24 update: uploaded 3D model
 
 [**About this keyboard**  ](#about-this-keyboard---)  
 [Before you buy/use  ](#before-you-buyuse---)  
