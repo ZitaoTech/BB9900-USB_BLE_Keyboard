@@ -30,7 +30,7 @@ This mini Keyboard uses the original **Blackberry 9900** keyboard with Trackpad 
 
 Here are some **main Features:**  
 **Processor**: [NRF52840](https://www.nordicsemi.com/products/nrf52840) from Nordic Semiconductor  
-**Firmware**: Modified ZMK Firmware.  
+**Firmware**: Modified ZMK Firmware.[source code](https://github.com/ZitaoTech/zmk/tree/bbkeyboard_tp/app)  
 **Swapable battery Design**: Replace your battery in 10 seconds.  
 **Battery type**: Nokia BL-5B. You can buy it anywhere in the world.  
 **Long battery life**: The keyboard can work more than 3 months when normally used without recharging.  
