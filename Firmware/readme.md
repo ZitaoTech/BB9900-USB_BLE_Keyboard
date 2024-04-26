@@ -6,7 +6,7 @@ If you have any questions about the keymap or you want your own keymap but don't
 bb9900_US_layout_2024.03.07.uf2: default firmware.  
 
 bb9900-sticky_shift.uf2: default firmware feature + sticky shift  
-What is sticky shift?  
+What is [sticky shift](https://zmk.dev/docs/behaviors/sticky-key)?  
 A sticky shift stays pressed until another key is pressed, By using a sticky shift, you don't have to hold the shift key to write a capital.  
 Why sticky shift?  
 Because the keyboard has no integrated diodes, so there might be some ghost typing when you hold some keys together like shift + X.  
