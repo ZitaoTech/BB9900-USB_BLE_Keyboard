@@ -4,7 +4,12 @@ Last update about this documentation: 2024.03.27
 2024.03.24 update: uploaded [3D model](https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/tree/main/3D-model)  
 2024.03.27 update: uploaded [How to customize your own keymap](https://github.com/ZitaoTech/zmk-config_9900)  
 2024.04.26 update: add documentation about [sticky shift](https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/tree/main/Firmware)  
-
+## Compare of the 3 Wireless keyboards:  
+|Keyboard Type |Dimension |Trackpad Backlight |Layout |
+|:---|:---|:---    |:---  |
+|BBQ10 |53.13x76.67x12.9mm    |Yes     |Linear      |
+|BBQ20 |54.97x81.95x13.3mm    |No     |Linear      | 
+|BB9900 |56.91x74.57x13.1mm    |Yes     |Smile      |  
 [**About this keyboard**  ](#about-this-keyboard---)  
 [Before you buy/use  ](#before-you-buyuse---)  
 [**How to use this keyboard**  ](#how-to-use-this-keyboard---)  
