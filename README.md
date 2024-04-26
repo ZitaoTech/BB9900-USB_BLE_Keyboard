@@ -10,6 +10,7 @@ Last update about this documentation: 2024.03.27
 |BBQ10 |53.13x76.67x12.9mm    |Yes     |Linear      |
 |BBQ20 |54.97x81.95x13.3mm    |No     |Linear      | 
 |BB9900 |56.91x74.57x13.1mm    |Yes     |Smile      |  
+
 [**About this keyboard**  ](#about-this-keyboard---)  
 [Before you buy/use  ](#before-you-buyuse---)  
 [**How to use this keyboard**  ](#how-to-use-this-keyboard---)  
