@@ -65,7 +65,7 @@ How to check the Bluetooth version of your device: google (your device name) lik
 ## <a name='Where to buy  '>Where to buy   </a>  
 
 **Pay with US dollar**: [Tindie](https://www.tindie.com/products/zitaotech/blackberry-bb9900-bleusb-keyboard/)  
-**Pay with US dollar ship with battery from China**:  [Elecrow](https://www.elecrow.com/blackberry-bb9900-ble-usb-keyboard.html)
+**Pay with US dollar ship with battery from China**:  [Elecrow](https://www.elecrow.com/blackberry-bb9900-ble-usb-keyboard.html)  
 **Pay with Euro**: [Lectronz](https://lectronz.com/products/blackberry-bb9900-bleusb-keyboard)  
 
 # <a name='How to use this keyboard  '>How to use this keyboard   </a>  
